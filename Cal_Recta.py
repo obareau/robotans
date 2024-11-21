@@ -12,6 +12,7 @@ months = [
 
 ceremonies = {
     # Cérémonies et événements récurrents
+    "1 Ordium": "Cérémonie de la Réinitialisation",
     "15 Ordium": "Cérémonie de la Fondation",
     "25 Fervor": "Rite de la Fraternité",
     "5 Laboris": "Cérémonie des Mains du Travail",
